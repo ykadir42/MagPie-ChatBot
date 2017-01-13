@@ -11,12 +11,11 @@ findKeyword("I can't catch wild cats.", "cat", 0);
     Iteration   psn    before    after
     1           8      " "       " "
     1           19     " "       " "
-
-
-
-
-
-
-
+    
+findKeyword("I know nothing about snow plows.", "no", 0);
+    Iteration   psn    before    after
+    1           3      "k"       "w"
+    1           7      " "       "t"
+    1           22     "s"       "w"
 
 */
