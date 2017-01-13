@@ -1,14 +1,6 @@
 /**
- * A program to carry on conversations with a human user.
- * This is the initial version that:  
- * <ul><li>
- *       Uses indexOf to find strings
- * </li><li>
- * 		    Handles responding to simple words and phrases 
- * </li></ul>
- * This version uses a nested if to handle default responses.
- * @author Laurie White
- * @version April 2012
+Activity 2 Answer Sheet
+Orig. Author Laurie White
  */
 public class Magpie2
 {
@@ -110,5 +102,11 @@ public class Magpie2
 }
 
 /*
-	It detects it anyway.
+	Keyword:Response
+	meme : That's really funny!
+	haha : That's really funny!
+	xd   : That's really funny!
+	
+
+	Question: It detects it anyway.
 */
