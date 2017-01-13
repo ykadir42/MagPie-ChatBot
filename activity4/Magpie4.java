@@ -1,14 +1,5 @@
 /**
- * A program to carry on conversations with a human user.
- * This version:
- *<ul><li>
- * 		Uses advanced search for keywords 
- *</li><li>
- * 		Will transform statements as well as react to keywords
- *</li></ul>
- * @author Laurie White
- * @version April 2012
- *
+Actvity 4 answer key
  */
 public class Magpie4
 {
@@ -281,3 +272,4 @@ public class Magpie4
 	}
 
 }
+// Doesen't work well if it's using another thing, ex. "I want to like you" returns "Would you be really happy if you had to like you"
